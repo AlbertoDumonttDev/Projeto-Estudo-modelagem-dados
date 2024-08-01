@@ -2,6 +2,8 @@
 
 Este repositório é a criação de um projeto sobre o estudo de Design de banco de dados relacionais e modelagem de dados
 
+## 🎓 **O que você encontrará aqui:**
+
 - 🛠️ **Levantamento de Requisitos do Projeto:** Aprendendo a coletar e entender as necessidades dos usuários e as especificações do projeto. Esta fase é crucial para garantir que o banco de dados atenda às expectativas e funcionalidades requeridas.
 - 📊 **Modelagem de Dados:** Imersão na criação de modelos de dados, começando pelo Diagrama de Entidade-Relacionamento (Diagrama ER). Descubrindo como estruturar e organizar os dados de maneira eficiente e lógica.
 - 📐 **Design de Banco de Dados:** Desenvolvendo diagramas de banco de dados relacionais, garantindo uma arquitetura sólida. Abordamos a definição e otimização dos campos, escolha de tipos de dados (VARCHAR, INT, DATE, TEXT, entre outros) e criação de tabelas eficazes.
